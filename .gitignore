@@ -1,0 +1,18 @@
+# Java/Eclipse specific
+*.class
+*.log
+*.war
+*.ear
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Output folders
+bin/
+target/
+
+# System files
+Thumbs.db
+.DS_Store
